@@ -18,7 +18,7 @@ I am a Software Developer and a DFIR researcher at Cyght.
 
 - :seedling: Developer of Cyber tools with C#, .NET and Python.
 
-- :zap: In my free time, I am expanding my technological and programming knowledge, the topics I am currently studying is GO and Solidity.
+- :zap: In my free time, I am expanding my technological and programming knowledge, the topics I am currently studying is Go and Solidity.
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
