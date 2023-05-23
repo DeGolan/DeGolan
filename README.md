@@ -10,7 +10,7 @@
 </div>
 
 ### :man_technologist: About Me :
-I am a Software Developer and a DFIR researcher at Cyght.
+I am a Software Developer at Check Point Software Technologies.
 - :telescope: Graduate of the Department of Computer Science at Ben Gurion University.
 
 - :seedling: Developer of Cyber tools with C#, .NET and Python.
