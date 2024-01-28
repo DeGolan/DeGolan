@@ -13,7 +13,7 @@
 I am a Software Developer at Check Point Software Technologies.
 - :telescope: Graduate of the Department of Computer Science at Ben Gurion University.
 
-- :seedling: Developer of Cyber tools with C#, .NET and Python.
+- :seedling: Developer of Cyber tools.
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
